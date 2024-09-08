@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<title>Blue Bird Studios Website</title>
+<meta name="description> content="Test">
+<meta name="author" Content="Blue Bird Studios">
+<meta http-equiv="refresh" content="120">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.maintext {
+  font-family: 'Brush Script MT', cursive;
+  color: #000000; }
+#maintitle {
+  font-family: 'Aldrich';font-size:22px;
+  color: #00602c; }
+</style>
+</head>
+<body style="background-color: #b0e0ff;">
+<br>
+<h1 id="maintitle">Welcome To The Blue Bird Studios Website!!!</h1>
+<h3 class="maintext">If you want to check out our discord server, click the link below! &#x3a;D</h3>
+<a href=> https://discord.gg/mxrNTP9v <a>
+<h3 class="maintext">If you want to check out our scratch studio, click the link below! &#x3a;D</h3>
+<a href=> https://scratch.mit.edu/studios/33666726 </a>
+<h3 class="maintext">To see our website games, click the link below! &#x3a;D</h3>
+<a href=>https://resite.link/Blue-Bird-Studios<a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<button type="button" onclick="document.write("Thanks For Visiting!")">Click Me To Exit</button>
+</body>
+</html>
